@@ -3,6 +3,6 @@ import pandas as pd
 import numpy as np
 
 data = np.arangea(100)
-def my_name();
+def my_name():
     name = print('my name is marcelloh')
     print(name)
