@@ -1,2 +1,2 @@
 import bqplot
-from bqplot import DateScale
+from bqplot import DateScale, LinearScale
