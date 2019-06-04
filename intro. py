@@ -1,2 +1,3 @@
 import bqplot
 from bqplot import DateScale, LinearScale
+import pandas as pd pd
